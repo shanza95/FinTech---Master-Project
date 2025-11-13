@@ -11,7 +11,7 @@ Datasets
   
 Data Cleaning & Analysis
 - You can explore the full Python implementation for the data cleaning phase in the [notebook](Python%20Fintech%20Project%20-%20Final.ipynb/), which includes step-by-step code and comments.
-- The SQL queries utilized to inspect and perform queries can be found [here](SQL_FinTech.sql/)
+- The SQL queries utilized to inspect and perform queries can be found [here](SQL_%20FinTech.sql/)
 - Two interactive dashboards can be downloaded [here](https://public.tableau.com/app/profile/shanza.saleem/viz/FinTechTransactionsandUserSpendingDashboard/Dashboard3/) and the more detailed one, [here](https://public.tableau.com/app/profile/shanza.saleem/viz/FinTechTransactionsandUserSpending/FinTechTransactionsUserSpendings/).
   
 
