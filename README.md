@@ -35,7 +35,7 @@ Key Steps:
 - Standardized variables (e.g., “MerchantName” → “Merchant_Name”).
 - Handle missing values.
 - Created another dataset, named utility_data.csv
-- - Saved cleaned datasets as merchants.csv, users.csv, and transactions.csv.
+- Saved cleaned datasets as merchants.csv, users.csv, and transactions.csv.
 - Perform Data Validation and Data Analysis with the usage of two libraries, matplotlib and seaborn, very important for Visualization.
 - Connected to MySQL DB
 - Imported pymysql library and connected to SQLAlchemy engine to view tables in DB.
