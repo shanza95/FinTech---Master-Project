@@ -44,3 +44,8 @@ Key Steps:
     - Retrieve monthly transaction summaries for each user
     - Identify top-performing merchants based on transaction volume
     - Calculate the average utility bill amount per user.
+
+
+### Phase 3: Visualization
+
+![Dashboard](Dashboard.png/)
