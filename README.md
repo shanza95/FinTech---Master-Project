@@ -7,7 +7,7 @@
 ### Insights 
 Datasets
 - Raw Datasets (to be cleaned) can be found [here](Datasets%20to%20be%20cleaned/)
-- Cleaned Datasets can be found [here](cleaned%20files%20from%20python/)
+- Cleaned Datasets can be found [here](cleaned%20files%20from%20Python/)
   
 Data Cleaning & Analysis
 - You can explore the full Python implementation for the data cleaning phase in the [notebook](Python%20FinTech%20Project-Final.ipynb/) , which includes step-by-step code and comments.
