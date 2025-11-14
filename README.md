@@ -2,7 +2,7 @@
 
 ### Project Overview: 
 
-
+This project analyzes transaction and revenue data across merchants and utility categories to uncover top performers, spending patterns, and revenue trends. Using dashboards and visualizations, it highlights user behavior, category-wise performance, and average bill amounts, providing actionable insights. The analysis supports targeted merchant engagement, category-specific strategies for utilities, and ongoing trend monitoring to inform data-driven business decisions.
 
 ### Insights 
 Datasets
